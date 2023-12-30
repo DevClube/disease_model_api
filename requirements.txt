@@ -1,0 +1,9 @@
+numpy~=1.26.2
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+
+joblib~=1.3.2
+flask~=3.0.0
